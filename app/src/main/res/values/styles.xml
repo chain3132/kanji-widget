@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.NoActionBar">
+        <item name="android:colorPrimary">#C62828</item>
+        <item name="android:colorPrimaryDark">#121212</item>
+        <item name="android:colorAccent">#FF5252</item>
+        <item name="android:windowBackground">@color/app_bg</item>
+        <item name="android:statusBarColor">@color/app_bg</item>
+        <item name="android:navigationBarColor">@color/app_bg</item>
+    </style>
+
+    <!-- White text with a soft shadow so it stays readable on any wallpaper. -->
+    <style name="WidgetText">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:shadowColor">#CC000000</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">6</item>
+    </style>
+
+    <color name="app_bg">#121212</color>
+</resources>

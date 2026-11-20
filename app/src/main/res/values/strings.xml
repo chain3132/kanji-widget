@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">คันจิวิดเจ็ต</string>
+    <string name="app_title">คันจิวันละตัว 漢字</string>
+    <string name="widget_description">คันจิพร้อมคำอ่าน คำแปล และประโยคตัวอย่าง</string>
+    <string name="prev">◀ ก่อนหน้า</string>
+    <string name="next">ถัดไป ▶</string>
+    <string name="add_widget">＋ เพิ่ม widget ลงหน้าจอหลัก</string>
+    <string name="all_kanji">ดูคันจิทั้งหมด</string>
+    <string name="change_every">เปลี่ยนคันจิอัตโนมัติ</string>
+    <string name="mode_daily">วันละตัว</string>
+    <string name="mode_hourly">ทุกชั่วโมง</string>
+    <string name="clear_bg">พื้นหลังโปร่งใส (ตัวหนังสือลอยบนวอลเปเปอร์)</string>
+    <string name="how_to_title">วิธีเพิ่ม widget</string>
+    <string name="how_to_body">วิธีเพิ่ม widget:\n1. กดค้างที่พื้นที่ว่างบนหน้าจอหลัก\n2. เลือก \"วิดเจ็ต\" (Widgets)\n3. ค้นหา \"คันจิวิดเจ็ต\" แล้วลากไปวาง\n4. กดค้างที่ widget เพื่อปรับขนาด (แนะนำ 4×3)\n\nแตะที่ตัวคันจิใน widget = เปลี่ยนเป็นตัวถัดไป\nแตะส่วนอื่นของ widget = เปิดแอพ</string>
+</resources>
